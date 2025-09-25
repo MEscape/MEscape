@@ -93,8 +93,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable, modern app
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEscape&layout=compact&theme=dark&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=YOUR-USERNAME&theme=dark)
-
 </div>
 
 ---
